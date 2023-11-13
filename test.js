@@ -14,6 +14,7 @@
         //   }
         //   console.log(var1,var2);
         // }
+        // const variable
         // {
         //     const car=[toyota,Audi,volvo,BMW];
         // }
